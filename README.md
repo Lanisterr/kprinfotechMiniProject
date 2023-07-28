@@ -1,7 +1,7 @@
-#**Simple MERN Stack Order Tracking App**
+#Simple MERN Stack Order Tracking App
 A simple MERN (MongoDB, Express, React, Node.js) Stack App that allows users to track orders. Each order contains two properties: id and name. Users can add orders and view the list of orders.
 
-##**Table of Contents**
+##Table of Contents
 -Technologies Used
 -Features
 -Installation
