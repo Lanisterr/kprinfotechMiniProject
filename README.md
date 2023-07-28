@@ -24,7 +24,6 @@ A simple MERN (MongoDB, Express, React, Node.js) Stack App that allows users to 
 - Simple and user-friendly interface.
 
 ### Installation
-** Install dependencies for both the frontend and backend: **
 - Install dependencies for both the frontend and backend.
 
 ### Usage
